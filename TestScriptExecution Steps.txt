@@ -1,0 +1,15 @@
+MakeMyTrip Flight Data Scraper
+In this project, Python, Selenium and Chrome Webdriver is used to scrape Flight Data from MakeMyTrip portal.
+
+To Run the project
+Open cmd/terminal and Clone the repository in your local workspace using git clone https://github.com/PasupuletiSiva/MakeMyTripWebScraping.git
+Change directory to MakeMyTripWebScraping by using cd MakeMyTripWebScraping on cmd/terminal.
+Ensure Python 3.7, Chrome webdriver and Selenium are correctly installed.
+Run python MakeMyTripWebScrapingTest.py command to run the scraper.
+
+Requirements
+Python 3 to run the code.
+Google chrome and chrome driver version must match. Please check your google chrome browser version and download the chrome driver accordingly.
+You can download the correction version of chrome driver from the link - http://chromedriver.chromium.org/downloads.
+To download Selenium, use the command - pip3 install selenium
+To download BeautfulSoup, use the command - pip3 install bs4
